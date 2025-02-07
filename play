@@ -6,109 +6,118 @@
         <h1>Allison Presents</h1>
         <h2>The Life of King Henry the Eighth</h2>
         <body>
-            ACT I
-            PROLOGUE
-            I come no more to make you laugh: things now,
-            That bear a weighty and a serious brow,
-            Sad, high, and working, full of state and woe,
-            Such noble scenes as draw the eye to flow,
-            We now present. Those that can pity, here
-            May, if they think it well, let fall a tear;
-            The subject will deserve it. Such as give
-            Their money out of hope they may believe,
-            May here find truth too. Those that come to see
-            Only a show or two, and so agree
-            The play may pass, if they be still and willing,
-            I'll undertake may see away their shilling
-            Richly in two short hours. Only they
-            That come to hear a merry bawdy play,
-            A noise of targets, or to see a fellow
-            In a long motley coat guarded with yellow,
-            Will be deceived; for, gentle hearers, know,
-            To rank our chosen truth with such a show
-            As fool and fight is, beside forfeiting
-            Our own brains, and the opinion that we bring,
-            To make that only true we now intend,
-            Will leave us never an understanding friend.
-            Therefore, for goodness' sake, and as you are known
-            The first and happiest hearers of the town,
-            Be sad, as we would make ye: think ye see
-            The very persons of our noble story
-            As they were living; think you see them great,
-            And follow'd with the general throng and sweat
-            Of thousand friends; then in a moment, see
-            How soon this mightiness meets misery:
-            And, if you can be merry then, I'll say
-            A man may weep upon his wedding-day.
-
-            SCENE I. London. An ante-chamber in the palace.
-            Enter NORFOLK at one door; at the other, BUCKINGHAM and ABERGAVENNY
-
-            BUCKINGHAM
-            Good morrow, and well met. How have ye done
-            Since last we saw in France?
-
-            NORFOLK
-            I thank your grace,
-            Healthful; and ever since a fresh admirer
-            Of what I saw there.
-
-            BUCKINGHAM
-            An untimely ague
-            Stay'd me a prisoner in my chamber when
-            Those suns of glory, those two lights of men,
-            Met in the vale of Andren.
-
-            NORFOLK
-            'Twixt Guynes and Arde:
-            I was then present, saw them salute on horseback;
-            Beheld them, when they lighted, how they clung
-            In their embracement, as they grew together;
-            Which had they, what four throned ones could have weigh'd
-            Such a compounded one?
-
-            BUCKINGHAM
-            All the whole time
-            I was my chamber's prisoner.
-
-            NORFOLK
-            Then you lost
-            The view of earthly glory: men might say,
-            Till this time pomp was single, but now married
-            To one above itself. Each following day
-            Became the next day's master, till the last
-            Made former wonders its. To-day the French,
-            All clinquant, all in gold, like heathen gods,
-            Shone down the English; and, to-morrow, they
-            Made Britain India: every man that stood
-            Show'd like a mine. Their dwarfish pages were
-            As cherubins, all guilt: the madams too,
-            Not used to toil, did almost sweat to bear
-            The pride upon them, that their very labour
-            Was to them as a painting: now this masque
-            Was cried incomparable; and the ensuing night
-            Made it a fool and beggar. The two kings,
-            Equal in lustre, were now best, now worst,
-            As presence did present them; him in eye,
-            Still him in praise: and, being present both
-            'Twas said they saw but one; and no discerner
-            Durst wag his tongue in censure. When these suns--
-            For so they phrase 'em--by their heralds challenged
-            The noble spirits to arms, they did perform
-            Beyond thought's compass; that former fabulous story,
-            Being now seen possible enough, got credit,
-            That Bevis was believed.
-
-            BUCKINGHAM
+            <p>
+                ACT I
+                PROLOGUE
+                I come no more to make you laugh: things now,
+                That bear a weighty and a serious brow,
+                Sad, high, and working, full of state and woe,
+                Such noble scenes as draw the eye to flow,
+                We now present. Those that can pity, here
+                May, if they think it well, let fall a tear;
+                The subject will deserve it. Such as give
+                Their money out of hope they may believe,
+                May here find truth too. Those that come to see
+                Only a show or two, and so agree
+                The play may pass, if they be still and willing,
+                I'll undertake may see away their shilling
+                Richly in two short hours. Only they
+                That come to hear a merry bawdy play,
+                A noise of targets, or to see a fellow
+                In a long motley coat guarded with yellow,
+                Will be deceived; for, gentle hearers, know,
+                To rank our chosen truth with such a show
+                As fool and fight is, beside forfeiting
+                Our own brains, and the opinion that we bring,
+                To make that only true we now intend,
+                Will leave us never an understanding friend.
+                Therefore, for goodness' sake, and as you are known
+                The first and happiest hearers of the town,
+                Be sad, as we would make ye: think ye see
+                The very persons of our noble story
+                As they were living; think you see them great,
+                And follow'd with the general throng and sweat
+                Of thousand friends; then in a moment, see
+                How soon this mightiness meets misery:
+                And, if you can be merry then, I'll say
+                A man may weep upon his wedding-day.
+            </p>
+            <p>
+                SCENE I. London. An ante-chamber in the palace.
+                Enter NORFOLK at one door; at the other, BUCKINGHAM and ABERGAVENNY
+            </p>
+            <h3>BUCKINGHAM</h3>
+            <p>
+                Good morrow, and well met. How have ye done
+                Since last we saw in France?
+            </p>
+            <h3>NORFOLK</h3>
+            </p>
+                I thank your grace,
+                Healthful; and ever since a fresh admirer
+                Of what I saw there.
+            </p>
+            <h3>BUCKINGHAM</h3>
+            </p>
+                An untimely ague
+                Stay'd me a prisoner in my chamber when
+                Those suns of glory, those two lights of men,
+                Met in the vale of Andren.
+            </p>
+            <h3>NORFOLK</h3>
+            <p>
+                'Twixt Guynes and Arde:
+                I was then present, saw them salute on horseback;
+                Beheld them, when they lighted, how they clung
+                In their embracement, as they grew together;
+                Which had they, what four throned ones could have weigh'd
+                Such a compounded one?
+            </p>
+            <h3>BUCKINGHAM</h3>
+            <p>
+                All the whole time
+                I was my chamber's prisoner.
+            </p>
+            <h3>NORFOLK</h3>
+            <p>
+                Then you lost
+                The view of earthly glory: men might say,
+                Till this time pomp was single, but now married
+                To one above itself. Each following day
+                Became the next day's master, till the last
+                Made former wonders its. To-day the French,
+                All clinquant, all in gold, like heathen gods,
+                Shone down the English; and, to-morrow, they
+                Made Britain India: every man that stood
+                Show'd like a mine. Their dwarfish pages were
+                As cherubins, all guilt: the madams too,
+                Not used to toil, did almost sweat to bear
+                The pride upon them, that their very labour
+                Was to them as a painting: now this masque
+                Was cried incomparable; and the ensuing night
+                Made it a fool and beggar. The two kings,
+                Equal in lustre, were now best, now worst,
+                As presence did present them; him in eye,
+                Still him in praise: and, being present both
+                'Twas said they saw but one; and no discerner
+                Durst wag his tongue in censure. When these suns--
+                For so they phrase 'em--by their heralds challenged
+                The noble spirits to arms, they did perform
+                Beyond thought's compass; that former fabulous story,
+                Being now seen possible enough, got credit,
+                That Bevis was believed.
+            </p>
+            <h3>BUCKINGHAM</h3>
             O, you go far.
-
-            NORFOLK
-            As I belong to worship and affect
-            In honour honesty, the tract of every thing
-            Would by a good discourser lose some life,
-            Which action's self was tongue to. All was royal;
-            To the disposing of it nought rebell'd.
-            Order gave each thing view; the office did
-            Distinctly his full function.
+            <h3>NORFOLK</h3>
+            <p>
+                As I belong to worship and affect
+                In honour honesty, the tract of every thing
+                Would by a good discourser lose some life,
+                Which action's self was tongue to. All was royal;
+                To the disposing of it nought rebell'd.
+                Order gave each thing view; the office did
+                Distinctly his full function.
+            </p>
         </body>
 </html>
