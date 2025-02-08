@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>play</title>
+        <link rel="stylesheet" href="shakespeare.css">
     </head>
         <h1>Allison Presents</h1>
         <h2>The Life of King Henry the Eighth</h2>
@@ -42,29 +43,29 @@
                 And, if you can be merry then, I'll say
                 A man may weep upon his wedding-day.
             </p>
-            <p>
+            <p class = "stage_direction">
                 SCENE I. London. An ante-chamber in the palace.
                 Enter NORFOLK at one door; at the other, BUCKINGHAM and ABERGAVENNY
             </p>
-            <h3>BUCKINGHAM</h3>
+            <h3 class = "buckingham">BUCKINGHAM</h3>
                 <p>
                     Good morrow, and well met. How have ye done
                     Since last we saw in France?
                 </p>
-            <h3>NORFOLK</h3>
+            <h3 class = "norfolk">NORFOLK</h3>
                 </p>
                     I thank your grace,
                     Healthful; and ever since a fresh admirer
                     Of what I saw there.
                 </p>
-            <h3>BUCKINGHAM</h3>
+                <h3 class = "buckingham">BUCKINGHAM</h3>
                 </p>
                     An untimely ague
                     Stay'd me a prisoner in my chamber when
                     Those suns of glory, those two lights of men,
                     Met in the vale of Andren.
                 </p>
-            <h3>NORFOLK</h3>
+            <h3 class = "norfolk">NORFOLK</h3>
                 <p>
                     'Twixt Guynes and Arde:
                     I was then present, saw them salute on horseback;
@@ -73,12 +74,12 @@
                     Which had they, what four throned ones could have weigh'd
                     Such a compounded one?
                 </p>
-            <h3>BUCKINGHAM</h3>
+            <h3 class = "buckingham">BUCKINGHAM</h3>
                 <p>
                     All the whole time
                     I was my chamber's prisoner.
                 </p>
-            <h3>NORFOLK</h3>
+            <h3 class = "norfolk">NORFOLK</h3>
                 <p>
                     Then you lost
                     The view of earthly glory: men might say,
@@ -107,11 +108,11 @@
                     Being now seen possible enough, got credit,
                     That Bevis was believed.
                 </p>
-            <h3>BUCKINGHAM</h3>
+            <h3 class = "buckingham">BUCKINGHAM</h3>
                 <p>
                     O, you go far.
                 </p>
-            <h3>NORFOLK</h3>
+            <h3 class = "norfolk">NORFOLK</h3>
                 <p>
                     As I belong to worship and affect
                     In honour honesty, the tract of every thing
