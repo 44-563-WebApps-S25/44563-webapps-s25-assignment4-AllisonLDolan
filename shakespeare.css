@@ -3,4 +3,8 @@
 name{font-size:16; color: black; font-family:"Times New Roman";}
 .norfolk{color:blueviolet;}
 .buckingham{color:aqua;}
-table{font-size:14;}
+table{border: dashed 3px rgb(7, 7, 83); color: rgb(120, 106, 198); padding: 20px; margin: 20px;}
+td, th {border: solid 2px ;
+    text-align: center;}
+tr:nth-child(even)
+    {background-color: #33305d;}
