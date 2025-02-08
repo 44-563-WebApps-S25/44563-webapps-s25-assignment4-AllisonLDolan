@@ -7,7 +7,7 @@
         <h1>Allison Presents</h1>
         <h2>The Life of King Henry the Eighth</h2>
         <body>
-            <p>
+            <p class = "speech">
                 ACT I
                 PROLOGUE
                 I come no more to make you laugh: things now,
@@ -48,7 +48,7 @@
                 Enter NORFOLK at one door; at the other, BUCKINGHAM and ABERGAVENNY
             </p>
             <h3 class = "buckingham">BUCKINGHAM</h3>
-                <p>
+                <p class = "speech">
                     Good morrow, and well met. How have ye done
                     Since last we saw in France?
                 </p>
@@ -59,14 +59,14 @@
                     Of what I saw there.
                 </p>
                 <h3 class = "buckingham">BUCKINGHAM</h3>
-                </p>
+                <p class = "speech">
                     An untimely ague
                     Stay'd me a prisoner in my chamber when
                     Those suns of glory, those two lights of men,
                     Met in the vale of Andren.
                 </p>
             <h3 class = "norfolk">NORFOLK</h3>
-                <p>
+                <p class = "speech">
                     'Twixt Guynes and Arde:
                     I was then present, saw them salute on horseback;
                     Beheld them, when they lighted, how they clung
@@ -75,12 +75,12 @@
                     Such a compounded one?
                 </p>
             <h3 class = "buckingham">BUCKINGHAM</h3>
-                <p>
+                <p class = "speech">
                     All the whole time
                     I was my chamber's prisoner.
                 </p>
             <h3 class = "norfolk">NORFOLK</h3>
-                <p>
+                <p class = "speech">
                     Then you lost
                     The view of earthly glory: men might say,
                     Till this time pomp was single, but now married
@@ -113,7 +113,7 @@
                     O, you go far.
                 </p>
             <h3 class = "norfolk">NORFOLK</h3>
-                <p>
+                <p class = "speech">
                     As I belong to worship and affect
                     In honour honesty, the tract of every thing
                     Would by a good discourser lose some life,
@@ -122,5 +122,22 @@
                     Order gave each thing view; the office did
                     Distinctly his full function.
                 </p>
+
+            <table>
+                <tr>
+                    <th>Character</th>
+                    <th>Actor</th>
+                    <th>Offer</th>
+                </tr>
+                <tr>
+                    <td>Buckingham</td>
+                    <td>Morgan Freeman</td>
+                    <td>1 million</td>
+                </tr>
+                <tr>
+                    <td>Norfolk</td>
+                    <td>Arnold Schwarzenegger</td>
+                    <td>1 million</td>
+                </tr>
         </body>
 </html>
